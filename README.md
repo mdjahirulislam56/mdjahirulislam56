@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=250&section=header&text=Md.%20Jahirul%20Islam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=EEE%20Student%20%&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=250&section=header&text=Md.%20Jahirul%20Islam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=EEE%20Student&descAlignY=55&descAlign=50"/>
 </p>
 
 ## 🌟 About Me  
 
-- 🎓 **EEE** student at International Islamic University Chittagong
+- 🎓 **EEE** student at International Islamic University Chittagong  
 - 💻 Currently Studying in **Deep Learning**  
 - ⚡ Skilled in **Python, MATLAB, C, C++, TensorFlow**  
 - 🧠 Passionate about **AI, ML, and Embedded Systems**  
@@ -32,7 +32,7 @@
 ## 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,tensorflow,pytorch,git,github,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,tensorflow,pytorch,github,vscode,arduino" />
 </p>
 
 ---
@@ -40,22 +40,26 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdjahirulislam56&label=Profile%20views&color=1e90ff&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=md-jahirul-islam-56&theme=algolia&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mdjahirulislam56&theme=algolia&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-jahirul-islam-56&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=1e90ff" alt="Top Languages" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=md-jahirul-islam-56&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=1e90ff&icon_color=1e90ff" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjahirulislam56&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=1e90ff" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdjahirulislam56&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=1e90ff&icon_color=1e90ff" alt="GitHub Stats" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-jahirul-islam-56&theme=tokyonight&hide_border=true&ring=1e90ff&currStreakLabel=1e90ff" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdjahirulislam56&theme=tokyonight&hide_border=true&ring=1e90ff&currStreakLabel=1e90ff" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-jahirul-islam-56&theme=react-dark&hide_border=true&area=true&color=1e90ff&line=1e90ff&point=1e90ff" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdjahirulislam56&theme=react-dark&hide_border=true&area=true&color=1e90ff&line=1e90ff&point=1e90ff" alt="Contribution Graph"/>
 </p>
 
 ---
